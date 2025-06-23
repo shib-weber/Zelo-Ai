@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/',(req,res)=>{
-    res.send('Serer is Ready')
+    res.send('Server is Ready')
 })
 
 // POST endpoint to handle chat

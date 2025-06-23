@@ -2,7 +2,7 @@ import cohere
 import pyttsx3
 
 # Initialize Cohere client
-co = cohere.Client("6nig59e8Gw37JOwki24qp9bdjnmRtjLmxt4MGpwN")  # Replace with your actual API key
+co = cohere.Client("Api Key") 
 
 # Initialize text-to-speech engine
 tts = pyttsx3.init()
