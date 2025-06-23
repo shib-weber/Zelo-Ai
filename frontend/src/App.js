@@ -17,7 +17,7 @@ function App() {
     setLoading(true);
 
     try {
-      const res = await axios.post("http://localhost:5000/chat", {
+      const res = await axios.post("https://zelo-ai.onrender.com/chat", {
         message: input,
       });
 
