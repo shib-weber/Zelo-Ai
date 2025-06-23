@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zelo-Ai/static/css/main.11502fde.css",
+    "main.js": "/Zelo-Ai/static/js/main.a1f8a130.js",
+    "static/js/453.670e15c7.chunk.js": "/Zelo-Ai/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Zelo-Ai/index.html",
+    "main.11502fde.css.map": "/Zelo-Ai/static/css/main.11502fde.css.map",
+    "main.a1f8a130.js.map": "/Zelo-Ai/static/js/main.a1f8a130.js.map",
+    "453.670e15c7.chunk.js.map": "/Zelo-Ai/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11502fde.css",
+    "static/js/main.a1f8a130.js"
+  ]
+}
